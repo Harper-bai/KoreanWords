@@ -1,0 +1,103 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: #dbe2ef;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  background-color: #3f72af;
+  color: white;
+  padding: 20px 0;
+  margin: 0;
+  font-size: 2.5em;
+}
+/*
+.container {
+margin: 20px auto;
+  padding: 20px;
+  max-width: 600px;
+  background-color: #f9f7f7;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+*/
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50vw; /* 将容器宽度设置为窗口宽度的一半 */
+  height: 50vw;
+  max-width: 600px; /* 设置最大宽度 */
+  max-height: 400px; /* 设置最大高度 */
+  padding: 20px;
+  background-color: #f9f7f7;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+#word {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+input[type="file"] {
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+input[type="text"] {
+  padding: 10px;
+  width: calc(100% - 24px);
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1.5em;
+  text-align: center;
+}
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #112d4e;
+  color: white;
+  font-size: 1em;
+}
+button:hover {
+  background-color: #112d4e;
+}
+.feedback {
+  margin-top: 10px;
+  color: red;
+  font-size: 1.2em;
+}
+img {
+  margin-top: 20px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+#mistakes {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: #112d4e;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#mistakesList {
+  display: none;
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+}

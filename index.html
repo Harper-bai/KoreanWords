@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>韩语1默写器</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>韩语1默写器</h1>
+    <div>
+    <!-- 文件输入，用于选择 CSV 文件 -->
+    <input type="file" id="fileInput" accept=".csv">
+    </div>
+    <div class="container">
+      <div id="word"></div>
+      <!-- 输入框，用于输入韩文单词 -->
+      <input type="text" id="answer" placeholder="请输入韩文单词">
+      <!-- 按钮，用于检查答案 -->
+      <button onclick="checkAnswer()">检查答案</button>
+      <!-- 按钮，用于显示正确答案 -->
+      <button onclick="showKorean()">查看</button>
+      <!-- 按钮，用于跳转到上一个单词 -->
+      <button onclick="prevWord()">上一个</button>
+      <!-- 按钮，用于跳转到下一个单词 -->
+      <button onclick="nextWord()">下一个</button>
+      <!-- 按钮，用于将当前单词添加到错题本 -->
+      <button onclick="addMistake()">添加错题</button>
+      <!-- 显示单词进度 -->
+      <div id="progress"></div>
+      <div id="feedback" class="feedback"></div>
+      <!-- 在页面中添加图片 -->
+      <img src="images.png" alt="韩语键盘布局">
+    </div>
+    <!-- 按钮，用于查看错题本 -->
+    <div id="mistakes" onclick="toggleMistakes()">错题本</div>
+    <div id="mistakesList"></div>
+    
+    <!-- 引入 PapaParse 库，用于解析 CSV 文件 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script>
+      let wordPairs = []; // 存储中韩单词对的数组
+      let currentWordIndex = 0; // 当前显示的单词索引
+      let mistakes = []; // 存储错题的数组
+  
+      // 监听文件输入变化事件，当用户选择文件时触发
+      document.getElementById('fileInput').addEventListener('change', function(event) {
+        const file = event.target.files[0]; // 获取选择的文件
+        if (file) {
+          // 使用 PapaParse 解析 CSV 文件
+          Papa.parse(file, {
+            header: true, // 使用第一行作为列名
+            complete: function(results) {
+              // 将解析结果存储在 wordPairs 数组中
+              wordPairs = results.data.map(row => ({
+                chinese: row.Chinese,
+                korean: row.Korean
+              }));
+              showNextWord(); // 加载完成后显示第一个单词
+            }
+          });
+        }
+      });
+  
+      // 显示下一个中文单词
+      function showNextWord() {
+        if (wordPairs.length > 0) {
+          document.getElementById("word").innerText = wordPairs[currentWordIndex].chinese;
+          document.getElementById("feedback").innerText = ""; // 清除反馈信息
+          document.getElementById("answer").value = ""; // 清空输入框
+          updateProgress(); // 更新单词进度
+        } else {
+          document.getElementById("word").innerText = "请上传包含单词对的CSV文件。";
+        }
+      }
+  
+      // 显示上一个中文单词
+      function prevWord() {
+        if (currentWordIndex > 0) {
+          currentWordIndex = (currentWordIndex - 1) % wordPairs.length; // 更新当前单词索引
+          showNextWord(); // 显示上一个单词
+        }
+      }
+  
+      // 检查用户输入的答案
+      function checkAnswer() {
+        const userAnswer = document.getElementById("answer").value.trim(); // 获取用户输入
+        const correctAnswer = wordPairs[currentWordIndex].korean; // 获取正确答案
+        if (userAnswer.toLowerCase() === correctAnswer.toLowerCase()) {
+          document.getElementById("feedback").innerText = "回答正确！"; // 显示反馈信息
+          // 自动跳转到下一个单词
+          setTimeout(() => {
+            nextWord();
+          }, 1000); // 1秒后跳转
+        } else {
+          document.getElementById("feedback").innerText = "再试一次。"; // 显示错误信息
+        }
+      }
+  
+      // 显示当前单词的正确韩文答案
+      function showKorean() {
+        const correctAnswer = wordPairs[currentWordIndex].korean; // 获取正确答案
+        document.getElementById("feedback").innerText = `正确答案: ${correctAnswer}`; // 显示正确答案
+      }
+  
+      // 跳转到下一个单词
+      function nextWord() {
+        currentWordIndex = (currentWordIndex + 1) % wordPairs.length; // 更新当前单词索引
+        showNextWord(); // 显示下一个单词
+      }
+  
+      // 将当前单词添加到错题本
+      function addMistake() {
+        const currentWord = wordPairs[currentWordIndex]; // 获取当前单词
+        if (!mistakes.includes(currentWord)) {
+          mistakes.push(currentWord); // 将当前单词添加到错题本
+          alert("已添加到错题本"); // 弹出提示框
+        } else {
+          alert("该单词已在错题本中"); // 弹出提示框
+        }
+      }
+  
+      // 切换显示错题本
+      function toggleMistakes() {
+        const mistakesList = document.getElementById("mistakesList"); // 获取错题本元素
+        if (mistakesList.style.display === "none" || mistakesList.style.display === "") {
+          mistakesList.style.display = "block"; // 显示错题本
+          mistakesList.innerHTML = mistakes.map(word => `<div>${word.chinese} - ${word.korean}</div>`).join(''); // 显示错题内容
+        } else {
+          mistakesList.style.display = "none"; // 隐藏错题本
+        }
+      }
+  
+      // 更新单词进度
+      function updateProgress() {
+        const progressElement = document.getElementById("progress");
+        progressElement.innerHTML = `${currentWordIndex + 1}/${wordPairs.length}`; //
+      }
+  
+      // 监听键盘事件
+      document.addEventListener('keydown', function(event) {
+        switch (event.key) {
+          case 'Enter':
+            checkAnswer();
+            break;
+          case 'Shift':
+            nextWord();
+            break;
+          case 'Control':
+            prevWord();
+            break;
+          case 'Alt':
+            addMistake();
+            break;
+          default:
+            // Do nothing for other keys
+            break;
+        }
+      });
+    </script>
+  </body>
+  </html>
