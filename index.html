@@ -28,15 +28,11 @@
       <div id="feedback" class="feedback"></div>
       <!-- 在页面中添加图片 -->
       <img src="images.png" alt="韩语键盘布局">
-      <p>
-        Enter：检查答案 Shift：下一个 Ctrl：上一个 Alt：添加错题
-      </p>
     </div>
     <!-- 按钮，用于查看错题本 -->
     <div id="mistakes" onclick="toggleMistakes()">错题本</div>
     <div id="mistakesList"></div>
     
-    <!-- 引入 PapaParse 库，用于解析 CSV 文件 -->
     <script src="data.js"></script>
     <script>
       let currentWordIndex = 0; // 当前显示的单词索引
@@ -64,7 +60,7 @@
       }
   
       // 检查用户输入的答案
-      function checkAnswer() {
+      function checkAnswer(event) {
         const userAnswer = document.getElementById("answer").value.trim(); // 获取用户输入
         const correctAnswer = wordPairs[currentWordIndex].korean; // 获取正确答案
         if (userAnswer.toLowerCase() === correctAnswer.toLowerCase()) {
@@ -79,19 +75,19 @@
       }
   
       // 显示当前单词的正确韩文答案
-      function showKorean() {
+      function showKorean(event) {
         const correctAnswer = wordPairs[currentWordIndex].korean; // 获取正确答案
         document.getElementById("feedback").innerText = `正确答案: ${correctAnswer}`; // 显示正确答案
       }
   
       // 跳转到下一个单词
-      function nextWord() {
+      function nextWord(event) {
         currentWordIndex = (currentWordIndex + 1) % wordPairs.length; // 更新当前单词索引
         showNextWord(); // 显示下一个单词
       }
   
       // 将当前单词添加到错题本
-      function addMistake() {
+      function addMistake(event) {
         const currentWord = wordPairs[currentWordIndex]; // 获取当前单词
         if (!mistakes.includes(currentWord)) {
           mistakes.push(currentWord); // 将当前单词添加到错题本
@@ -121,14 +117,14 @@
       // 监听键盘事件
       document.addEventListener('keydown', function(event) {
         switch (event.key) {
-          case 'Enter':
+          case ' ':
             checkAnswer();
             break;
-          case 'Shift':
-            nextWord();
+          case 'Enter':
+            showKorean();
             break;
           case 'Control':
-            prevWord();
+            nextWord();
             break;
           case 'Alt':
             addMistake();
