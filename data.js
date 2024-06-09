@@ -1,5 +1,4 @@
 let wordPairs = [
-  { chinese: "﻿Chinese", korean: "Korean" },
   { chinese: "形 安好,平安", korean: "안녕하십니까" },
   { chinese: "安寧 ", korean: "안녕하다" },
   { chinese: "不安 ", korean: "불안하다" },
