@@ -9,10 +9,6 @@
 </head>
 <body>
     <h1>韩语1默写器</h1>
-    <div>
-    <!-- 文件输入，用于选择 CSV 文件 -->
-    <input type="file" id="fileInput" accept=".csv">
-    </div>
     <div class="container">
       <div id="word"></div>
       <!-- 输入框，用于输入韩文单词 -->
@@ -41,30 +37,11 @@
     <div id="mistakesList"></div>
     
     <!-- 引入 PapaParse 库，用于解析 CSV 文件 -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="data.js"></script>
     <script>
-      let wordPairs = []; // 存储中韩单词对的数组
       let currentWordIndex = 0; // 当前显示的单词索引
       let mistakes = []; // 存储错题的数组
   
-      // 监听文件输入变化事件，当用户选择文件时触发
-      document.getElementById('fileInput').addEventListener('change', function(event) {
-        const file = event.target.files[0]; // 获取选择的文件
-        if (file) {
-          // 使用 PapaParse 解析 CSV 文件
-          Papa.parse(file, {
-            header: true, // 使用第一行作为列名
-            complete: function(results) {
-              // 将解析结果存储在 wordPairs 数组中
-              wordPairs = results.data.map(row => ({
-                chinese: row.Chinese,
-                korean: row.Korean
-              }));
-              showNextWord(); // 加载完成后显示第一个单词
-            }
-          });
-        }
-      });
   
       // 显示下一个中文单词
       function showNextWord() {
@@ -161,6 +138,7 @@
             break;
         }
       });
+      showNextWord();
     </script>
   </body>
   </html>
