@@ -28,13 +28,14 @@
       <div id="feedback" class="feedback"></div>
       <!-- 在页面中添加图片 -->
       <img src="images.png" alt="韩语键盘布局">
+      <p>
+      空格：检查答案 Enter：查看单词 Ctrl：下一个 Alt：添加到错题
+      </p>
     </div>
     <!-- 按钮，用于查看错题本 -->
     <div id="mistakes" onclick="toggleMistakes()">错题本</div>
     <div id="mistakesList"></div>
-    <p>
-      空格：检查答案 Enter：查看单词 Ctrl：下一个 Alt：添加到错题
-    </p>
+
     <script src="data.js"></script>
     <script>
       let currentWordIndex = 0; // 当前显示的单词索引
