@@ -1,0 +1,82 @@
+[
+  {
+    "id": "yonsei-1",
+    "title": "延世韩国语 1",
+    "level": 1,
+    "status": "ready",
+    "lessonCount": 10,
+    "lessons": [
+      { "id": "lesson-01", "title": "问候" },
+      { "id": "lesson-02", "title": "学校与家" },
+      { "id": "lesson-03", "title": "家人与朋友" },
+      { "id": "lesson-04", "title": "饮食" },
+      { "id": "lesson-05", "title": "日常生活" },
+      { "id": "lesson-06", "title": "购物" },
+      { "id": "lesson-07", "title": "交通" },
+      { "id": "lesson-08", "title": "电话" },
+      { "id": "lesson-09", "title": "天气与季节" },
+      { "id": "lesson-10", "title": "节假日与假期" }
+    ],
+    "updatedAt": "2026-08-12T09:33:00.000Z"
+  },
+  {
+    "id": "yonsei-2",
+    "title": "延世韩国语 2",
+    "level": 2,
+    "status": "ready",
+    "lessonCount": 10,
+    "lessons": [
+      { "id": "lesson-01", "title": "介绍" },
+      { "id": "lesson-02", "title": "韩国饮食" },
+      { "id": "lesson-03", "title": "市场" },
+      { "id": "lesson-04", "title": "邀请" },
+      { "id": "lesson-05", "title": "交通" },
+      { "id": "lesson-06", "title": "公共机构" },
+      { "id": "lesson-07", "title": "电话" },
+      { "id": "lesson-08", "title": "医院" },
+      { "id": "lesson-09", "title": "旅行" },
+      { "id": "lesson-10", "title": "家务" }
+    ],
+    "updatedAt": "2026-08-12T11:14:00.000Z"
+  },
+  {
+    "id": "yonsei-3",
+    "title": "延世韩国语 3",
+    "level": 3,
+    "status": "ready",
+    "lessonCount": 10,
+    "lessons": [
+      { "id": "lesson-01", "title": "兴趣生活" },
+      { "id": "lesson-02", "title": "日常生活" },
+      { "id": "lesson-03", "title": "健康" },
+      { "id": "lesson-04", "title": "演出与欣赏" },
+      { "id": "lesson-05", "title": "人物" },
+      { "id": "lesson-06", "title": "聚会文化" },
+      { "id": "lesson-07", "title": "失误与道歉" },
+      { "id": "lesson-08", "title": "学校生活" },
+      { "id": "lesson-09", "title": "请求与拒绝" },
+      { "id": "lesson-10", "title": "昨日与今日" }
+    ],
+    "updatedAt": "2026-08-12T11:14:00.000Z"
+  },
+  {
+    "id": "yonsei-4",
+    "title": "延世韩国语 4",
+    "level": 4,
+    "status": "ready",
+    "lessonCount": 10,
+    "lessons": [
+      { "id": "lesson-01", "title": "我的生活" },
+      { "id": "lesson-02", "title": "人的性格" },
+      { "id": "lesson-03", "title": "日常问题" },
+      { "id": "lesson-04", "title": "现代韩国文化" },
+      { "id": "lesson-05", "title": "时间与变化" },
+      { "id": "lesson-06", "title": "知识与社会" },
+      { "id": "lesson-07", "title": "迷信" },
+      { "id": "lesson-08", "title": "生活经济" },
+      { "id": "lesson-09", "title": "节日与庆典" },
+      { "id": "lesson-10", "title": "生活在现代的人" }
+    ],
+    "updatedAt": "2026-08-12T11:14:00.000Z"
+  }
+]

@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "yonsei-4-lesson-01-001",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "겁",
+    "chinese": "害怕，胆小",
+    "english": "fear; fright",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-002",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "적응",
+    "chinese": "适应",
+    "english": "adaptation; adjustment",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-003",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "다행이다",
+    "chinese": "万幸",
+    "english": "be fortunate; what a relief",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-004",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "시설",
+    "chinese": "设施，设备",
+    "english": "facility; installation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-005",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "도심",
+    "chinese": "城市中心",
+    "english": "downtown",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-006",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "주택가",
+    "chinese": "住宅区",
+    "english": "residential area",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-007",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "도시 근교",
+    "chinese": "城市近郊",
+    "english": "city outskirts",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-008",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "고층 건물",
+    "chinese": "高层建筑",
+    "english": "high-rise building",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-009",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "편의 시설",
+    "chinese": "便利设施",
+    "english": "amenities; convenience facilities",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-010",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "한적하다",
+    "chinese": "闲适，幽静",
+    "english": "deserted; secluded",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-011",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "번화하다",
+    "chinese": "繁华",
+    "english": "bustling; thriving",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-012",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "쾌적하다",
+    "chinese": "令人愉快，舒适",
+    "english": "pleasant",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-013",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "인생",
+    "chinese": "人生",
+    "english": "life",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-014",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "영향",
+    "chinese": "影响",
+    "english": "influence",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-015",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "끼치다",
+    "chinese": "带来，产生",
+    "english": "cause; give",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-016",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "부럽다",
+    "chinese": "羡慕，眼馋",
+    "english": "envious of",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-017",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "궁금하다",
+    "chinese": "想知道，挂念",
+    "english": "curious",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-018",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "뿌듯하다",
+    "chinese": "充实，心满意足",
+    "english": "filled with joy; overwhelmed with pride",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-019",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "초조하다",
+    "chinese": "烦躁，焦躁",
+    "english": "fretting; anxious; nervous",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-020",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "당황스럽다",
+    "chinese": "惊慌，慌张",
+    "english": "rather embarrassed; rather bewildered; rather disconcerted",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-021",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "부담스럽다",
+    "chinese": "有负担，有压力",
+    "english": "burdensome",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-022",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "짜증스럽다",
+    "chinese": "心烦",
+    "english": "irritated; annoyed",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-01-023",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "정신",
+    "chinese": "精神",
+    "english": "spirit; mind",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-024",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "차리다",
+    "chinese": "打起",
+    "english": "come to one's senses",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-025",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "산더미",
+    "chinese": "堆积如山",
+    "english": "pile; heap; stack",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-026",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "쌓이다",
+    "chinese": "堆积，积累",
+    "english": "be piled up; be heaped",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-027",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "살펴보다",
+    "chinese": "照看，照料",
+    "english": "examine; check",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-028",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "계획적",
+    "chinese": "计划的",
+    "english": "being planned",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-029",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "효율적",
+    "chinese": "有效的，高效的",
+    "english": "being efficient; being effective",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-030",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "비효율적",
+    "chinese": "没效率的，效率低的",
+    "english": "being inefficient",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-031",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "미루다",
+    "chinese": "拖延，延后",
+    "english": "delay; put off; postpone",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-032",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "포기하다",
+    "chinese": "放弃，抛弃",
+    "english": "give up",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-033",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "목표를 정하다",
+    "chinese": "定目标",
+    "english": "set a goal",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-034",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "시간에 쫓기다",
+    "chinese": "时间所迫",
+    "english": "be pressed for time",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-035",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "시간을 관리하다",
+    "chinese": "管理时间",
+    "english": "manage one's time",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-036",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "양로원",
+    "chinese": "养老院",
+    "english": "nursing home",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-037",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "봉사 활동",
+    "chinese": "志愿活动",
+    "english": "volunteer activity",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-01-038",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "용기",
+    "chinese": "勇气",
+    "english": "courage; guts",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-039",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "살아가다",
+    "chinese": "活下去，过活",
+    "english": "make a living",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-01-040",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "명예",
+    "chinese": "名誉",
+    "english": "honor; glory; fame; reputation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-041",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "미모",
+    "chinese": "美貌",
+    "english": "beautiful face; pretty features",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-042",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "재력",
+    "chinese": "财力",
+    "english": "wealth",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-01-043",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-01",
+    "lessonTitle": "我的生活",
+    "korean": "지혜",
+    "chinese": "智慧",
+    "english": "wisdom",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-044",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "출세",
+    "chinese": "有出息，出人头地",
+    "english": "success; being successful",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-045",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "학식",
+    "chinese": "学识",
+    "english": "knowledge; intelligence",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-046",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "활달하다",
+    "chinese": "大方，豁达",
+    "english": "broad-minded; great-hearted",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-047",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "적극적",
+    "chinese": "积极的",
+    "english": "being active",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-048",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "수줍음",
+    "chinese": "害羞，腼腆",
+    "english": "shyness; bashfulness",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-049",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "낯",
+    "chinese": "脸",
+    "english": "face; mug",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-050",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "가리다",
+    "chinese": "认生，分辨，区分",
+    "english": "distinguish; differentiate",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-051",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "정",
+    "chinese": "情，感情",
+    "english": "affection; emotional attachment",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-052",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "첫인상",
+    "chinese": "第一印象",
+    "english": "first impression",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-053",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "내성적",
+    "chinese": "内向的",
+    "english": "being introverted",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-054",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "외향적",
+    "chinese": "外向的",
+    "english": "outgoing; extroverted",
+    "pos": "冠"
+  },
+  {
+    "id": "yonsei-4-lesson-02-055",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "느긋하다",
+    "chinese": "慢悠悠",
+    "english": "comfortable; relaxed; carefree",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-056",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "명랑하다",
+    "chinese": "明朗，开朗",
+    "english": "bright; cheerful; merry",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-057",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "소심하다",
+    "chinese": "小心谨慎，胆小",
+    "english": "timid; cowardly; chicken-hearted",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-058",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "솔직하다",
+    "chinese": "坦率",
+    "english": "frank; honest",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-059",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "덜렁거리다",
+    "chinese": "冒失，慌张",
+    "english": "be careless",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-060",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "변덕스럽다",
+    "chinese": "多变，善变",
+    "english": "whimsical; changeable; inconstant",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-061",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "취직하다",
+    "chinese": "就业",
+    "english": "get a job; be hired; be employed",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-062",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "남",
+    "chinese": "别人，他人",
+    "english": "others; another person",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-063",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "호기심",
+    "chinese": "好奇心",
+    "english": "curiosity; inquisitiveness",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-064",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "상상력",
+    "chinese": "想象力",
+    "english": "imaginative power; imagination",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-065",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "풍부하다",
+    "chinese": "丰富",
+    "english": "rich; abundant",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-066",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "살리다",
+    "chinese": "救活，复活",
+    "english": "keep someone alive; bring someone to life; save someone's life",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-067",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "마술사",
+    "chinese": "魔术师",
+    "english": "magician",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-068",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "판사",
+    "chinese": "审判官，法官",
+    "english": "judge",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-069",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "사업가",
+    "chinese": "企业家",
+    "english": "businessperson; entrepreneur",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-070",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "건축가",
+    "chinese": "建筑师",
+    "english": "architect",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-071",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "선수",
+    "chinese": "选手，运动员",
+    "english": "athlete; player; representative player",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-072",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "목수",
+    "chinese": "木匠，木工",
+    "english": "carpenter",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-073",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "승무원",
+    "chinese": "乘务员",
+    "english": "crew member",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-074",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "공무원",
+    "chinese": "公务员",
+    "english": "civil servant",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-075",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "기자",
+    "chinese": "记者",
+    "english": "reporter; journalist",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-076",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "성직자",
+    "chinese": "神职人员",
+    "english": "cleric",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-077",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "연예인",
+    "chinese": "艺人",
+    "english": "entertainer",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-078",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "프로게이머",
+    "chinese": "职业玩家",
+    "english": "professional gamer",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-02-079",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "즐겁다",
+    "chinese": "愉快，快乐",
+    "english": "joyful; pleasant",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-080",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "자라다",
+    "chinese": "成长，生长",
+    "english": "grow",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-081",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "외동딸",
+    "chinese": "独生女",
+    "english": "only daughter",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-082",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "부족하다",
+    "chinese": "不足，不够",
+    "english": "insufficient",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-083",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "싸우다",
+    "chinese": "打架，斗争",
+    "english": "fight; quarrel; dispute",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-084",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "달리",
+    "chinese": "不同",
+    "english": "unlike",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-02-085",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "장남",
+    "chinese": "长子",
+    "english": "eldest son",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-086",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "차남",
+    "chinese": "次子，二儿子",
+    "english": "second son",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-087",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "습하다",
+    "chinese": "湿，潮湿",
+    "english": "damp; humid",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-088",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "부유하다",
+    "chinese": "富有，富裕",
+    "english": "wealthy",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-089",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "빈곤하다",
+    "chinese": "贫困",
+    "english": "poor",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-090",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "서늘하다",
+    "chinese": "凉飕飕",
+    "english": "cool; chilly",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-091",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "쌀쌀하다",
+    "chinese": "凉飕飕",
+    "english": "chilly; rather cold",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-092",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "화창하다",
+    "chinese": "和畅，风和日丽",
+    "english": "fine; sunny; genial; clear",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-02-093",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "쓰러지다",
+    "chinese": "倒下",
+    "english": "fall; collapse",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-094",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "혈압",
+    "chinese": "血压",
+    "english": "blood pressure",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-095",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "명상",
+    "chinese": "冥想",
+    "english": "meditation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-096",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "귀 기울이다",
+    "chinese": "倾听，侧耳倾听",
+    "english": "listen attentively",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-02-097",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "타고나다",
+    "chinese": "天生，先天",
+    "english": "be born with",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-02-098",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "간염",
+    "chinese": "肝炎",
+    "english": "hepatitis",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-099",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "두통",
+    "chinese": "头痛",
+    "english": "headache",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-100",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "위염",
+    "chinese": "胃炎",
+    "english": "gastritis",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-101",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "장염",
+    "chinese": "肠炎",
+    "english": "enteritis",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-102",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "치매",
+    "chinese": "痴呆症",
+    "english": "dementia; Alzheimer's disease",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-103",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "폐렴",
+    "chinese": "肺炎",
+    "english": "pneumonia",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-104",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "뇌졸중",
+    "chinese": "脑中风",
+    "english": "cerebral apoplexy; stroke",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-105",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "당뇨병",
+    "chinese": "糖尿病",
+    "english": "diabetes",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-106",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "심장병",
+    "chinese": "心脏病",
+    "english": "heart disease",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-107",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "동맥경화",
+    "chinese": "动脉硬化",
+    "english": "arteriosclerosis",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-02-108",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "소화불량",
+    "chinese": "消化不良",
+    "english": "indigestion",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-02-109",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "머리",
+    "chinese": "头",
+    "english": "head",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-110",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "심장",
+    "chinese": "心脏",
+    "english": "heart",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-111",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "혈관",
+    "chinese": "血管",
+    "english": "blood vessel",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-112",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "간",
+    "chinese": "肝",
+    "english": "liver",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-02-113",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-02",
+    "lessonTitle": "人的性格",
+    "korean": "인슐린",
+    "chinese": "胰岛素",
+    "english": "insulin",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-114",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "폐",
+    "chinese": "肺",
+    "english": "lungs",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-115",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "장",
+    "chinese": "肠",
+    "english": "intestines",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-116",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "전자",
+    "chinese": "电子",
+    "english": "electron",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-117",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "고객센터",
+    "chinese": "客服中心",
+    "english": "customer service center",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-03-118",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "벽걸이",
+    "chinese": "壁挂式",
+    "english": "hooked object",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-119",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "교환",
+    "chinese": "交换",
+    "english": "exchange",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-120",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "설치하다",
+    "chinese": "安装，设置",
+    "english": "install",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-121",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "나흘",
+    "chinese": "四天",
+    "english": "four days",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-122",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "인수증",
+    "chinese": "收据",
+    "english": "receipt; acknowledgment of receipt",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-03-123",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "반품",
+    "chinese": "退货，退换",
+    "english": "return",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-124",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "분명히",
+    "chinese": "分明，明明",
+    "english": "clearly",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-03-125",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "매장",
+    "chinese": "卖场，售货处",
+    "english": "store",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-126",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "구입",
+    "chinese": "购入，买进",
+    "english": "purchase; buying",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-127",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "규정",
+    "chinese": "规定",
+    "english": "regulation; rule",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-128",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "배송",
+    "chinese": "送货，配送",
+    "english": "delivery",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-129",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "판매",
+    "chinese": "销售",
+    "english": "sale; selling",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-130",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "하자",
+    "chinese": "瑕疵",
+    "english": "defect; flaw",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-131",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "환불",
+    "chinese": "退款",
+    "english": "refund; money back",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-132",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "품질보증서",
+    "chinese": "质量保证书",
+    "english": "warranty certificate",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-03-133",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "주민",
+    "chinese": "居民，住民",
+    "english": "resident",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-134",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "틀다",
+    "chinese": "拧，扭",
+    "english": "twist",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-135",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "휴식",
+    "chinese": "休息",
+    "english": "break; rest; recess",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-136",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "취하다",
+    "chinese": "采取",
+    "english": "take; keep",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-137",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "어쩔 수 없다",
+    "chinese": "没办法",
+    "english": "have no choice",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-03-138",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "피해",
+    "chinese": "被害，受害",
+    "english": "harm; damage; loss",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-139",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "무시하다",
+    "chinese": "无视，忽视",
+    "english": "disregard; neglect",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-140",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "해",
+    "chinese": "害处",
+    "english": "harm; damage",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-141",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "손해",
+    "chinese": "损害",
+    "english": "harm",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-142",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "영향",
+    "chinese": "影响",
+    "english": "influence",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-143",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "받다",
+    "chinese": "得到，收到",
+    "english": "receive; get",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-144",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "보다",
+    "chinese": "受",
+    "english": "watch; see; enjoy",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-145",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "입다",
+    "chinese": "受，蒙受",
+    "english": "receive; get",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-146",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "주다",
+    "chinese": "给，带来",
+    "english": "inflict",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-147",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "미치다",
+    "chinese": "波及，涉及",
+    "english": "reach",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-148",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "입히다",
+    "chinese": "使......受",
+    "english": "inflict; cause",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-149",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "참다",
+    "chinese": "忍住，忍受",
+    "english": "endure; withstand; fight back; be patient",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-150",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "망설이다",
+    "chinese": "犹豫，迟疑",
+    "english": "hesitate",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-151",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "설치다",
+    "chinese": "不足，不够",
+    "english": "toss and turn",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-152",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "부스럭거리다",
+    "chinese": "沙沙作响",
+    "english": "rustle",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-153",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "도대체",
+    "chinese": "到底，究竟",
+    "english": "come to the point",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-03-154",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "맞추다",
+    "chinese": "投合",
+    "english": "meet; adapt; adjust",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-155",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "본의 아니게",
+    "chinese": "无意中",
+    "english": "unintentionally; against one's wishes",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-03-156",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "방해",
+    "chinese": "妨碍",
+    "english": "distraction; getting in one's way; disturbance",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-157",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "따지다",
+    "chinese": "追究",
+    "english": "question closely",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-158",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "고발하다",
+    "chinese": "告发，检举",
+    "english": "complain; report",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-159",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "고소하다",
+    "chinese": "起诉，控诉",
+    "english": "accuse; indict",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-160",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "변명하다",
+    "chinese": "辩解",
+    "english": "make an excuse; justify",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-161",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "부인하다",
+    "chinese": "否认",
+    "english": "deny",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-162",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "불평하다",
+    "chinese": "埋怨，抱怨",
+    "english": "complain; grumble",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-163",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "사과하다",
+    "chinese": "道歉",
+    "english": "apologize",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-164",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "시인하다",
+    "chinese": "承认",
+    "english": "admit; acknowledge",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-165",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "합의하다",
+    "chinese": "协议，协商",
+    "english": "discuss; consult",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-166",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "말다툼하다",
+    "chinese": "吵架",
+    "english": "argue",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-167",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "가까이",
+    "chinese": "附近，近处",
+    "english": "being closely",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-168",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "남다",
+    "chinese": "剩下，剩余",
+    "english": "remain; be left",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-169",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "한꺼번에",
+    "chinese": "一同，一下子",
+    "english": "at a stroke; at one blow; all at once; at the same time; all together",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-03-170",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "치",
+    "chinese": "份额，份",
+    "english": "worth",
+    "pos": "依存名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-171",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "빼다",
+    "chinese": "减去，抽出",
+    "english": "take out; draw; pull out",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-03-172",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "계약",
+    "chinese": "合约，合同",
+    "english": "contract; agreement",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-173",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "월세",
+    "chinese": "(月)房租",
+    "english": "monthly rent; monthly rental fee",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-174",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "전세",
+    "chinese": "租借，租赁",
+    "english": "jeonse; Korean lump-sum deposit lease",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-175",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "계약금",
+    "chinese": "定金，合同押金",
+    "english": "down payment; earnest; deposit",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-176",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "계약서",
+    "chinese": "合同书",
+    "english": "contract; written agreement",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-03-177",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-03",
+    "lessonTitle": "日常问题",
+    "korean": "보증금",
+    "chinese": "保证金",
+    "english": "deposit",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-178",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "세입자",
+    "chinese": "入住人，租房人",
+    "english": "tenant",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-179",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "부동산 중개소",
+    "chinese": "房地产中介",
+    "english": "real estate agency",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-04-180",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "즐기다",
+    "chinese": "享受",
+    "english": "appreciate; enjoy; delight in",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-181",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "주로",
+    "chinese": "主要",
+    "english": "usually",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-04-182",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "종류",
+    "chinese": "种类",
+    "english": "kind; sort",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-183",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "공간",
+    "chinese": "空间",
+    "english": "space; expanse",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-184",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "개발하다",
+    "chinese": "开发，研制",
+    "english": "develop; devise; invent",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-185",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "윷놀이",
+    "chinese": "翻板子游戏",
+    "english": "yutnori; traditional Korean board game",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-186",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "제기차기",
+    "chinese": "踢毽子",
+    "english": "jegichagi; Korean shuttlecock-kicking game",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-187",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "그네뛰기",
+    "chinese": "荡秋千",
+    "english": "traditional Korean swing riding",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-188",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "씨름",
+    "chinese": "摔跤",
+    "english": "ssireum; traditional Korean wrestling",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-189",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "널뛰기",
+    "chinese": "跳跳板",
+    "english": "neolttwigi; riding a standing see-saw",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-190",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "줄다리기",
+    "chinese": "拔河",
+    "english": "tug-of-war",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-191",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "강강술래",
+    "chinese": "团圈舞",
+    "english": "ganggangsullae circle dance",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-04-192",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "후후",
+    "chinese": "呼呼",
+    "english": "puff puff",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-04-193",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "흘리다",
+    "chinese": "流，洒",
+    "english": "spill",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-194",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "완전히",
+    "chinese": "完全，充分",
+    "english": "completely; perfectly",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-04-195",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "달콤하다",
+    "chinese": "甜蜜，甜甜的",
+    "english": "pleasant feeling",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-196",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "쌉쌀하다",
+    "chinese": "微苦",
+    "english": "slightly bitter; bitterish",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-197",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "짭짤하다",
+    "chinese": "微咸",
+    "english": "salty",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-198",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "매콤하다",
+    "chinese": "微辣",
+    "english": "spicy",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-199",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "새콤하다",
+    "chinese": "微酸",
+    "english": "sour",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-200",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "담백하다",
+    "chinese": "清淡",
+    "english": "plain; bland",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-201",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "느끼하다",
+    "chinese": "油腻",
+    "english": "oily; greasy; fatty",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-202",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "떫다",
+    "chinese": "涩，发涩",
+    "english": "astringent; puckery",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-203",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "비리다",
+    "chinese": "有腥味，腥气",
+    "english": "fishy; taste foul",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-204",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "우연히",
+    "chinese": "偶然",
+    "english": "by chance; by accident",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-04-205",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "세대 차이",
+    "chinese": "代沟",
+    "english": "generation gap",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-04-206",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "게다가",
+    "chinese": "加上，况且",
+    "english": "additionally",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-04-207",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "용어",
+    "chinese": "用语，术语",
+    "english": "term; terminology",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-208",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "간",
+    "chinese": "之间",
+    "english": "between",
+    "pos": "依存名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-209",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "마찬가지이다",
+    "chinese": "一样，相同",
+    "english": "be the same; likewise",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-04-210",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "번역",
+    "chinese": "翻译",
+    "english": "translation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-211",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "거절하다",
+    "chinese": "拒绝",
+    "english": "refuse; reject; deny",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-212",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "격려하다",
+    "chinese": "鼓励，激励",
+    "english": "encourage; cheer",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-213",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "고백하다",
+    "chinese": "表白，坦白",
+    "english": "confide; fess up; come clean",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-214",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "권하다",
+    "chinese": "劝，劝说",
+    "english": "offer",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-215",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "농담하다",
+    "chinese": "开玩笑",
+    "english": "joke",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-216",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "재촉하다",
+    "chinese": "催促，督促",
+    "english": "press; urge",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-217",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "칭찬하다",
+    "chinese": "称赞，赞许",
+    "english": "praise; compliment",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-218",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "비난하다",
+    "chinese": "指责，谴责",
+    "english": "blame; condemn; criticize",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-219",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "새까맣다",
+    "chinese": "漆黑",
+    "english": "pitch-dark; as black as a crow; as black as soot",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-220",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "답사",
+    "chinese": "实地考察，参观学习",
+    "english": "field survey",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-221",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "관찰하다",
+    "chinese": "观察",
+    "english": "observe",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-222",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "그만이다",
+    "chinese": "罢了，也罢",
+    "english": "That is the end of the story.",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-04-223",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "벅차다",
+    "chinese": "费劲，充满",
+    "english": "beyond one's ability; be too much for",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-224",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "정보",
+    "chinese": "信息，情报",
+    "english": "information; data",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-04-225",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "공유하다",
+    "chinese": "共享，共有",
+    "english": "share",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-226",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "색다르다",
+    "chinese": "与众不同，异样",
+    "english": "unusual; unconventional; peculiar",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-04-227",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "체험하다",
+    "chinese": "体验",
+    "english": "experience",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-04-228",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-04",
+    "lessonTitle": "现代韩国文化",
+    "korean": "봉사하다",
+    "chinese": "服务，效力",
+    "english": "serve; volunteer",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-05-229",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "자기 계발을 하다",
+    "chinese": "自我完善",
+    "english": "pursue self-development",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-230",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "취미 활동을 하다",
+    "chinese": "参与兴趣活动",
+    "english": "engage in a hobby",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-231",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "기술",
+    "chinese": "技术",
+    "english": "technology",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-232",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "나날이",
+    "chinese": "日益，日渐",
+    "english": "day by day",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-05-233",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "목록",
+    "chinese": "目录",
+    "english": "list",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-234",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "유통기한",
+    "chinese": "流通期限，有效期",
+    "english": "expiration date; shelf life",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-235",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "산지",
+    "chinese": "产地",
+    "english": "origin of product; place of production",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-236",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "표시",
+    "chinese": "标示，标记",
+    "english": "indication; marking",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-237",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "과거",
+    "chinese": "过去",
+    "english": "past",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-238",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "현재",
+    "chinese": "现在",
+    "english": "now; present; today",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-239",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "미래",
+    "chinese": "未来",
+    "english": "future; days ahead",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-240",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "옛날",
+    "chinese": "以前，从前",
+    "english": "past; old days",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-241",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "지금",
+    "chinese": "现在",
+    "english": "now",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-242",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "훗날",
+    "chinese": "日后，将来",
+    "english": "future; coming days",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-243",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "고대",
+    "chinese": "古代",
+    "english": "ancient times",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-244",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "중세",
+    "chinese": "中世纪",
+    "english": "the Middle Ages",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-245",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "근대",
+    "chinese": "近代",
+    "english": "modern times",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-246",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "현대",
+    "chinese": "现代",
+    "english": "modern times; the present day",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-247",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "세기",
+    "chinese": "世纪",
+    "english": "century",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-248",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "세대",
+    "chinese": "世代，代",
+    "english": "generation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-249",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "시절",
+    "chinese": "时节，时代",
+    "english": "season",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-250",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "중매",
+    "chinese": "做媒，说媒",
+    "english": "matchmaking",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-251",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "결혼 적령기",
+    "chinese": "适婚年龄",
+    "english": "marriageable age",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-252",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "배우자",
+    "chinese": "配偶",
+    "english": "spouse",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-253",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "갖추다",
+    "chinese": "具备",
+    "english": "be equipped; be qualified; be complete",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-05-254",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "신세대",
+    "chinese": "新一代",
+    "english": "new generation; young generation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-255",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "결혼관",
+    "chinese": "婚姻观",
+    "english": "view of marriage",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-256",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "맞벌이",
+    "chinese": "双职工",
+    "english": "couple working together; dual-income family",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-257",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "선호하다",
+    "chinese": "偏爱，喜欢",
+    "english": "prefer",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-05-258",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "기혼",
+    "chinese": "已婚",
+    "english": "being married",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-259",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "미혼",
+    "chinese": "未婚",
+    "english": "being single; being unmarried",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-260",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "이혼",
+    "chinese": "离婚",
+    "english": "divorce",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-261",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "재혼",
+    "chinese": "再婚",
+    "english": "remarriage",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-262",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "파혼",
+    "chinese": "解除婚约",
+    "english": "breaking off one's engagement",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-263",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "혼기",
+    "chinese": "婚期",
+    "english": "marriageable age",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-264",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "혼담",
+    "chinese": "提亲",
+    "english": "proposal of marriage; offer of marriage",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-265",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "혼수",
+    "chinese": "彩礼，嫁妆",
+    "english": "marriage articles",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-266",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "감시",
+    "chinese": "监视",
+    "english": "surveillance; observation; watch",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-267",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "안심",
+    "chinese": "安心，放心",
+    "english": "relief; peace of mind; assurance",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-268",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "안전",
+    "chinese": "安全",
+    "english": "safety",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-269",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "면",
+    "chinese": "面，方面",
+    "english": "side; aspect; facet",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-270",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "제약",
+    "chinese": "制约，限制",
+    "english": "constraint",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-271",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "악용되다",
+    "chinese": "被滥用，被恶意利用",
+    "english": "be abused; be put to a bad use; be misused",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-05-272",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "침해",
+    "chinese": "侵害，侵犯",
+    "english": "invasion; violation; intrusion",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-273",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "권리",
+    "chinese": "权利",
+    "english": "right; authority; power",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-274",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "인권",
+    "chinese": "人权",
+    "english": "human rights",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-275",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "소유권",
+    "chinese": "所有权",
+    "english": "ownership",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-276",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "재산권",
+    "chinese": "财产权",
+    "english": "property right",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-277",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "저작권",
+    "chinese": "著作权",
+    "english": "copyright",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-278",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "초상권",
+    "chinese": "肖像权",
+    "english": "portrait rights",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-279",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "명예훼손",
+    "chinese": "损害名誉",
+    "english": "defamation",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-280",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "손해배상",
+    "chinese": "赔偿损失",
+    "english": "compensation for damages",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-281",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "관찰력",
+    "chinese": "观察力",
+    "english": "observation skill",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-282",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "신기하다",
+    "chinese": "神奇，新奇",
+    "english": "novel",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-05-283",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "사고방식",
+    "chinese": "思考方式",
+    "english": "way of thinking; mindset",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-284",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "보수적이다",
+    "chinese": "保守的",
+    "english": "conservative",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-05-285",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "개방적",
+    "chinese": "开放的",
+    "english": "open",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-286",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "개성적",
+    "chinese": "有个性的",
+    "english": "being characteristic",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-287",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "독립적",
+    "chinese": "独立的",
+    "english": "being independent",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-288",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "의존적",
+    "chinese": "依附的，依赖的",
+    "english": "being dependent; being reliant",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-05-289",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-05",
+    "lessonTitle": "时间与变化",
+    "korean": "진보적",
+    "chinese": "进步的，先进的",
+    "english": "progressive",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-290",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "폐쇄적",
+    "chinese": "封闭的，闭塞的",
+    "english": "being closed",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-291",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "획일적",
+    "chinese": "死板的，整齐划一的",
+    "english": "being uniform; being monolithic; being standardized",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-292",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "얻다",
+    "chinese": "得到，取得",
+    "english": "get; secure; gain",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-06-293",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "꽤",
+    "chinese": "相当，很",
+    "english": "quite; fairly",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-06-294",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "신뢰하다",
+    "chinese": "信赖",
+    "english": "trust; have faith",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-06-295",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "잘못하면",
+    "chinese": "弄不好",
+    "english": "if things go wrong",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-296",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "발표",
+    "chinese": "发表",
+    "english": "announcement; presentation; release; roll out",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-297",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "분석",
+    "chinese": "分析",
+    "english": "analysis",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-298",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "수집",
+    "chinese": "收集",
+    "english": "collection; gathering",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-299",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "정리",
+    "chinese": "整理",
+    "english": "organizing",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-300",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "조사",
+    "chinese": "调查",
+    "english": "poll; survey; investigation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-301",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "종합",
+    "chinese": "综合",
+    "english": "being aggregate; being combined",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-302",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "보고서",
+    "chinese": "书面报告",
+    "english": "report",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-303",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "일단",
+    "chinese": "一旦，先",
+    "english": "once",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-06-304",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "다큐멘터리",
+    "chinese": "纪录片",
+    "english": "documentary",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-305",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "유익하다",
+    "chinese": "有利，有益",
+    "english": "profitable; advantageous",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-06-306",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "일석이조",
+    "chinese": "一箭双雕",
+    "english": "killing two birds with one stone",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-307",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "편성표",
+    "chinese": "编制表",
+    "english": "program schedule",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-308",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "연예오락",
+    "chinese": "演艺娱乐",
+    "english": "show business and entertainment",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-309",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "시사교양",
+    "chinese": "时事教育",
+    "english": "current affairs and education",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-310",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "연말연시",
+    "chinese": "年末年初",
+    "english": "year-end and New Year's",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-311",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "그립다",
+    "chinese": "想念，怀念",
+    "english": "miss",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-06-312",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "영상채팅",
+    "chinese": "视频聊天",
+    "english": "video chat",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-313",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "마주보다",
+    "chinese": "对视，对望",
+    "english": "face each other; look at each other",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-314",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "고생 끝에 낙이 온다",
+    "chinese": "苦尽甘来",
+    "english": "To enjoy joyful and good days after going through difficulties or a grind.",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-315",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "덕을 보다",
+    "chinese": "沾光",
+    "english": "benefit from",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-316",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "검색",
+    "chinese": "检索",
+    "english": "search; browsing",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-317",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "접속",
+    "chinese": "连接",
+    "english": "connection",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-318",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "게시판",
+    "chinese": "留言板，公告板",
+    "english": "bulletin board; notice board",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-319",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "네티즌",
+    "chinese": "网民",
+    "english": "netizen",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-320",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "사이트",
+    "chinese": "网站",
+    "english": "site",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-321",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "블로그",
+    "chinese": "博客",
+    "english": "blog",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-322",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "인터넷 뱅킹",
+    "chinese": "网上银行",
+    "english": "online banking",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-323",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "동영상",
+    "chinese": "视频",
+    "english": "video",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-324",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "일과",
+    "chinese": "日程",
+    "english": "daily work",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-325",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "빠뜨리다",
+    "chinese": "落下，跳过",
+    "english": "omit; miss; leave out",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-06-326",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "상식",
+    "chinese": "常识",
+    "english": "common sense",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-327",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "일어나다",
+    "chinese": "发生",
+    "english": "happen; occur; take place",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-06-328",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "란",
+    "chinese": "栏",
+    "english": "section; part",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-329",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "만평",
+    "chinese": "时政漫画",
+    "english": "satirical cartoon",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-330",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "사설",
+    "chinese": "社论",
+    "english": "editorial; column",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-331",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "칼럼",
+    "chinese": "专栏",
+    "english": "column",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-06-332",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "독자투고",
+    "chinese": "读者投稿",
+    "english": "reader contribution",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-06-333",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-06",
+    "lessonTitle": "知识与社会",
+    "korean": "인사동정",
+    "chinese": "人事动态",
+    "english": "personnel news",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-07-334",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "기사",
+    "chinese": "消息",
+    "english": "article; news story",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-335",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "만화",
+    "chinese": "漫画",
+    "english": "comics",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-336",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "중계방송",
+    "chinese": "转播",
+    "english": "coverage; relay broadcast",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-337",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "결승전",
+    "chinese": "决赛",
+    "english": "finals; final game; play-offs",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-338",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "응원하다",
+    "chinese": "助威，助阵",
+    "english": "cheer",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-07-339",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "부상",
+    "chinese": "受伤",
+    "english": "injury",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-340",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "출전하다",
+    "chinese": "出战，参赛",
+    "english": "go to a sports game",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-07-341",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "복",
+    "chinese": "福，福气",
+    "english": "luck; fortune",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-342",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "운",
+    "chinese": "运，运气",
+    "english": "luck",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-343",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "불행",
+    "chinese": "不幸",
+    "english": "unhappiness; misery",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-344",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "운수",
+    "chinese": "运气",
+    "english": "fate; destiny",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-345",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "재수",
+    "chinese": "运气",
+    "english": "luck",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-346",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "행운",
+    "chinese": "幸运",
+    "english": "luck; fortune",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-347",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "기원",
+    "chinese": "祈愿，祈祷",
+    "english": "praying",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-348",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "논리적",
+    "chinese": "逻辑的",
+    "english": "being logical",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-349",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "비과학적",
+    "chinese": "非科学的，不科学",
+    "english": "being unscientific",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-350",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "뒤떨어지다",
+    "chinese": "落后，落伍",
+    "english": "fall behind; be inferior",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-07-351",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "과학적",
+    "chinese": "科学的",
+    "english": "being scientific",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-352",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "근거",
+    "chinese": "根据",
+    "english": "basis; grounds; reason",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-353",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "신경 쓰다",
+    "chinese": "费神，劳神",
+    "english": "pay attention; take care",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-07-354",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "신",
+    "chinese": "神",
+    "english": "god; deity",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-355",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "귀신",
+    "chinese": "鬼",
+    "english": "ghost; spirit",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-356",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "악마",
+    "chinese": "恶魔",
+    "english": "Mara",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-357",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "천사",
+    "chinese": "天使",
+    "english": "angel",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-358",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "마녀",
+    "chinese": "魔女",
+    "english": "witch",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-359",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "금기",
+    "chinese": "禁忌",
+    "english": "taboo",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-360",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "도깨비",
+    "chinese": "鬼怪",
+    "english": "dokkaebi; goblin",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-361",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "민간 신앙",
+    "chinese": "民间信仰",
+    "english": "folk beliefs",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-07-362",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "사주",
+    "chinese": "生辰八字",
+    "english": "saju; Four Pillars of Destiny",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-363",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "운명",
+    "chinese": "命运",
+    "english": "fate; destiny",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-364",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "점치다",
+    "chinese": "占卜，算卦",
+    "english": "do fortune telling",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-07-365",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "더러",
+    "chinese": "使，叫，让",
+    "english": "few; a few",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-07-366",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "재물",
+    "chinese": "财物，财富",
+    "english": "wealth",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-367",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "사업",
+    "chinese": "事业",
+    "english": "business",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-368",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "설마",
+    "chinese": "恐怕，怎么会",
+    "english": "really",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-07-369",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "아무러면",
+    "chinese": "怎么可能，再怎么",
+    "english": "surely not; not possibly",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-07-370",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "아무튼",
+    "chinese": "反正",
+    "english": "in any case; anyway",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-07-371",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "평생",
+    "chinese": "一生，终生",
+    "english": "entire life",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-372",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "사망",
+    "chinese": "死亡",
+    "english": "death; passing away; being killed",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-373",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "성공",
+    "chinese": "成功",
+    "english": "success",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-374",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "승진",
+    "chinese": "升职",
+    "english": "promotion; advancement",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-375",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "임신",
+    "chinese": "怀孕",
+    "english": "pregnancy",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-376",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "진학",
+    "chinese": "升学",
+    "english": "entrance to a higher education institution",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-377",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "출산",
+    "chinese": "分娩，生育",
+    "english": "childbirth; delivery; labor",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-378",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "출생",
+    "chinese": "出生",
+    "english": "birth",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-379",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "취업",
+    "chinese": "就业",
+    "english": "getting a job",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-380",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "떨리다",
+    "chinese": "发抖，战栗",
+    "english": "tremble",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-07-381",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "상관",
+    "chinese": "相关，相干",
+    "english": "correlation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-382",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "길몽",
+    "chinese": "好梦，吉利的梦",
+    "english": "lucky dream",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-383",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "한턱내다",
+    "chinese": "请客",
+    "english": "treat",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-07-384",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "선잠",
+    "chinese": "睡眠轻，没睡熟",
+    "english": "light sleep; catnap",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-385",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "숙면",
+    "chinese": "沉睡，熟睡",
+    "english": "deep sleep; sound sleep",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-386",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "악몽",
+    "chinese": "噩梦",
+    "english": "nightmare; bad dream",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-07-387",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-07",
+    "lessonTitle": "迷信",
+    "korean": "태몽",
+    "chinese": "胎梦",
+    "english": "dream of forthcoming conception",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-388",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "해몽",
+    "chinese": "解梦",
+    "english": "dream reading; dream interpretation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-389",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "흉몽",
+    "chinese": "噩梦，不吉利的梦",
+    "english": "bad dream; nightmare",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-390",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "쑥스럽다",
+    "chinese": "不好意思，难受",
+    "english": "awkward; shy",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-08-391",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "따름이다",
+    "chinese": "只不过，......罢了",
+    "english": "merely; nothing more than",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-392",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "흔하다",
+    "chinese": "多，有的是",
+    "english": "common; commonplace",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-08-393",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "단돈",
+    "chinese": "一点钱，极少的钱",
+    "english": "just a small amount of money",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-394",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "자녀",
+    "chinese": "子女",
+    "english": "child",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-395",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "형편",
+    "chinese": "境况，家庭情况",
+    "english": "situation; condition; circumstances",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-396",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "대신",
+    "chinese": "代替",
+    "english": "substitute",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-397",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "고가",
+    "chinese": "高价",
+    "english": "high price",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-398",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "구매",
+    "chinese": "购买",
+    "english": "purchase; buying",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-399",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "소비",
+    "chinese": "消费",
+    "english": "consumption",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-400",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "수입",
+    "chinese": "收入",
+    "english": "earning; income",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-401",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "저가",
+    "chinese": "低价",
+    "english": "being cheap; being low-end",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-402",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "저축",
+    "chinese": "存款，储蓄",
+    "english": "saving",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-403",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "절약",
+    "chinese": "节约",
+    "english": "savings; reduction; conservation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-404",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "지출",
+    "chinese": "支出",
+    "english": "expense; expenditure",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-405",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "과소비",
+    "chinese": "过度消费",
+    "english": "overconsumption",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-406",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "대여",
+    "chinese": "借贷，出借",
+    "english": "lending; rental",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-407",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "자금",
+    "chinese": "资金",
+    "english": "capital",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-408",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "마련하다",
+    "chinese": "置办，准备好",
+    "english": "prepare; arrange",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-08-409",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "주식",
+    "chinese": "股票，股份",
+    "english": "share; stock",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-410",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "위험 부담",
+    "chinese": "担保风险",
+    "english": "liability for risk",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-411",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "단기간",
+    "chinese": "短期",
+    "english": "short period",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-412",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "이익",
+    "chinese": "利益",
+    "english": "benefit; profit; interest",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-413",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "식비",
+    "chinese": "餐费",
+    "english": "food expenses",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-414",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "외식비",
+    "chinese": "在外就餐费",
+    "english": "expenses of eating out",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-415",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "교통비",
+    "chinese": "交通费",
+    "english": "fare; transportation expense",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-416",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "문화",
+    "chinese": "文化",
+    "english": "culture",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-417",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "레저비",
+    "chinese": "娱乐费用",
+    "english": "leisure expenses",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-418",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "교육비",
+    "chinese": "教育费",
+    "english": "educational cost",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-419",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "경조사비",
+    "chinese": "红白喜事费用",
+    "english": "wedding and funeral gift expenses",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-420",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "세금",
+    "chinese": "税金",
+    "english": "tax",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-421",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "공과금",
+    "chinese": "税金，公共事业费",
+    "english": "utility bills",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-422",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "보험",
+    "chinese": "保险",
+    "english": "insurance",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-423",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "건강",
+    "chinese": "健康",
+    "english": "health; wellbeing",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-424",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "의료비",
+    "chinese": "医疗费",
+    "english": "medical expenses; medical bill",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-425",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "생활잡비",
+    "chinese": "生活杂费",
+    "english": "miscellaneous living expenses",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-426",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "잔액",
+    "chinese": "余额",
+    "english": "balance",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-427",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "신용카드",
+    "chinese": "信用卡",
+    "english": "credit card",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-428",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "결제",
+    "chinese": "结算",
+    "english": "payment; settlement; liquidation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-429",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "최근",
+    "chinese": "最近",
+    "english": "the latest; the most recent",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-430",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "무절제하다",
+    "chinese": "无节制",
+    "english": "intemperate",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-08-431",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "한도",
+    "chinese": "限度，限额",
+    "english": "limit; cap; ceiling",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-432",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "금액",
+    "chinese": "金额",
+    "english": "amount",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-433",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "교훈",
+    "chinese": "教训",
+    "english": "lesson",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-434",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "면제",
+    "chinese": "免除",
+    "english": "exemption; release from duty",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-435",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "적립",
+    "chinese": "积累",
+    "english": "raising; saving",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-436",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "할부",
+    "chinese": "分期支付",
+    "english": "paying in installments",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-437",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "할인",
+    "chinese": "折扣，打折",
+    "english": "discount; reduction",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-438",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "가맹점",
+    "chinese": "加盟店",
+    "english": "member store; franchise",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-439",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "무이자",
+    "chinese": "无利息",
+    "english": "free of interest",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-440",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "연회비",
+    "chinese": "年费",
+    "english": "annual membership fee",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-441",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "일시불",
+    "chinese": "一次性付清",
+    "english": "lump-sum payment",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-442",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "포인트",
+    "chinese": "点，积分",
+    "english": "key point",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-443",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "결제",
+    "chinese": "结算",
+    "english": "payment; settlement; liquidation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-444",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "조르다",
+    "chinese": "纠缠",
+    "english": "beg; pester",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-08-445",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "웬만하다",
+    "chinese": "差不多，一般",
+    "english": "tolerable; passable",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-08-446",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "난리",
+    "chinese": "乱七八糟，乱子",
+    "english": "war; fight",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-447",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "타이르다",
+    "chinese": "劝，规劝",
+    "english": "persuade; talk nicely",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-08-448",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "쇠귀에 경 읽기",
+    "chinese": "对牛弹琴",
+    "english": "an expression meaning that words or advice have no effect on someone who refuses to listen",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-449",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "판단력",
+    "chinese": "判断力",
+    "english": "judgment; discernment",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-450",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "나무라다",
+    "chinese": "责备，数落",
+    "english": "scold; rebuke",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-08-451",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "자극하다",
+    "chinese": "刺激",
+    "english": "stimulate; give a stimulus to",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-08-452",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "기업",
+    "chinese": "企业",
+    "english": "company; enterprise; business",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-453",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "제품",
+    "chinese": "产品",
+    "english": "product",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-454",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "광고주",
+    "chinese": "广告客户",
+    "english": "client",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-08-455",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "광고모델",
+    "chinese": "广告模特",
+    "english": "advertising model",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-08-456",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-08",
+    "lessonTitle": "生活经济",
+    "korean": "공익광고",
+    "chinese": "公益广告",
+    "english": "public service advertisement",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-457",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "온라인광고",
+    "chinese": "在线广告",
+    "english": "online advertisement",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-458",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "광고대행사",
+    "chinese": "广告代理公司",
+    "english": "advertising agency",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-459",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "장손",
+    "chinese": "长孙",
+    "english": "eldest grandson",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-460",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "차례",
+    "chinese": "祭礼",
+    "english": "charye; Korean ancestral memorial rite",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-461",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "세배",
+    "chinese": "拜年",
+    "english": "sebae; New Year bow to elders",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-462",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "떡국",
+    "chinese": "年糕汤",
+    "english": "tteokguk; sliced rice cake soup",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-463",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "덕담",
+    "chinese": "吉利话",
+    "english": "words of blessing; well-wishing remarks",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-464",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "친지",
+    "chinese": "亲人，知己",
+    "english": "close friend",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-465",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "관심사",
+    "chinese": "关心的事",
+    "english": "matter of interest",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-466",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "설날",
+    "chinese": "春节",
+    "english": "Seollal",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-467",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "설빔",
+    "chinese": "新年服装",
+    "english": "seolbim; new clothes worn for Lunar New Year",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-468",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "성묘",
+    "chinese": "扫墓",
+    "english": "visit to one's ancestral grave",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-469",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "세배",
+    "chinese": "岁拜，拜年",
+    "english": "sebae; New Year bow to elders",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-470",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "귀성객",
+    "chinese": "探亲的人",
+    "english": "homecoming person",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-471",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "세뱃돈",
+    "chinese": "压岁钱",
+    "english": "sebaedon; sebaetdon",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-472",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "풍습",
+    "chinese": "风俗",
+    "english": "manners and customs",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-473",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "너 나 할 것 없이",
+    "chinese": "无论是谁",
+    "english": "An expression meaning 'everyone regardless of anyone'.",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-474",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "추석",
+    "chinese": "中秋",
+    "english": "Chuseok; Korean harvest festival",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-475",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "귀성 행렬",
+    "chinese": "探亲队伍",
+    "english": "holiday homecoming traffic",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-476",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "붐비다",
+    "chinese": "拥挤",
+    "english": "be crowded; be jam-packed with",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-09-477",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "열대지방",
+    "chinese": "热带地区",
+    "english": "tropical region",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-478",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "내내",
+    "chinese": "始终，一直是",
+    "english": "throughout",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-09-479",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "햇",
+    "chinese": "新出的，新长的",
+    "english": "newly harvested; newly grown",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-480",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "맨",
+    "chinese": "光，空",
+    "english": "most; the very",
+    "pos": "冠"
+  },
+  {
+    "id": "yonsei-4-lesson-09-481",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "맏",
+    "chinese": "大，年长",
+    "english": "eldest; firstborn",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-482",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "첫",
+    "chinese": "初，第一次",
+    "english": "first",
+    "pos": "冠"
+  },
+  {
+    "id": "yonsei-4-lesson-09-483",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "사위",
+    "chinese": "女婿",
+    "english": "son-in-law",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-484",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "주먹",
+    "chinese": "拳头",
+    "english": "fist",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-485",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "고구마",
+    "chinese": "地瓜",
+    "english": "sweet potato; yam",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-486",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "며느리",
+    "chinese": "儿媳",
+    "english": "daughter-in-law",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-487",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "행사",
+    "chinese": "活动",
+    "english": "event; occasion; ceremony",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-488",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "단오제",
+    "chinese": "端午祭",
+    "english": "Dano festival",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-489",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "세계문화유산",
+    "chinese": "世界文化遗产",
+    "english": "World Cultural Heritage",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-490",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "지정되다",
+    "chinese": "被指定",
+    "english": "be designated",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-09-491",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "넘다",
+    "chinese": "超过，越过",
+    "english": "exceed; go beyond",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-09-492",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "막상",
+    "chinese": "实际，真的",
+    "english": "in reality",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-09-493",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "가면극",
+    "chinese": "假面剧",
+    "english": "masque; mask play",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-494",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "흥미롭다",
+    "chinese": "有意思，有趣",
+    "english": "interesting; exciting",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-09-495",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "축제",
+    "chinese": "庆典",
+    "english": "festival",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-496",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "굿",
+    "chinese": "神祭，跳大神",
+    "english": "gut; exorcism",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-497",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "농악",
+    "chinese": "农乐",
+    "english": "nong-ak; instrumental farm music",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-498",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "가장행렬",
+    "chinese": "假扮队伍",
+    "english": "costume procession",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-499",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "불꽃놀이",
+    "chinese": "放礼花",
+    "english": "fireworks",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-500",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "시가행진",
+    "chinese": "街道游行",
+    "english": "march; parade",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-501",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "따로따로",
+    "chinese": "各自，分别",
+    "english": "individually; separately",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-09-502",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "어버이날",
+    "chinese": "父母节",
+    "english": "Parents' Day",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-503",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "기념일",
+    "chinese": "纪念日",
+    "english": "anniversary",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-504",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "근로자",
+    "chinese": "劳动者",
+    "english": "worker",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-505",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "기념관",
+    "chinese": "纪念馆",
+    "english": "memorial hall",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-506",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "기념식",
+    "chinese": "纪念仪式",
+    "english": "commemoration",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-507",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "기념전",
+    "chinese": "纪念展",
+    "english": "commemorative exhibition",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-09-508",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "기념품",
+    "chinese": "纪念品",
+    "english": "souvenir",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-09-509",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-09",
+    "lessonTitle": "节日与庆典",
+    "korean": "기념사진",
+    "chinese": "纪念照",
+    "english": "commemorative photograph",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-510",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "기념우표",
+    "chinese": "纪念邮票",
+    "english": "commemorative stamp",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-511",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "추수감사절",
+    "chinese": "秋收感恩节",
+    "english": "Thanksgiving Day",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-512",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "버릇",
+    "chinese": "习惯，恶习",
+    "english": "habit",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-513",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "쫓기다",
+    "chinese": "被追赶",
+    "english": "be chased; be pursued; be run after",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-514",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "충분히",
+    "chinese": "充分地",
+    "english": "enough; sufficiently; fully",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-10-515",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "의식적",
+    "chinese": "有意的，有意识的",
+    "english": "being conscious",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-516",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "회의",
+    "chinese": "怀疑",
+    "english": "skepticism; suspicion; doubt",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-517",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "과로사",
+    "chinese": "过劳死",
+    "english": "death from overwork",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-518",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "만족감",
+    "chinese": "满足感",
+    "english": "satisfaction",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-519",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "우울증",
+    "chinese": "忧郁症",
+    "english": "the blues; mental depression; melancholy",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-520",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "일벌레",
+    "chinese": "工作狂",
+    "english": "workaholic",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-521",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "경쟁하다",
+    "chinese": "竞争",
+    "english": "vie",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-522",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "도전하다",
+    "chinese": "挑战",
+    "english": "be defiant; challenge",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-523",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "몰두하다",
+    "chinese": "投入，专注",
+    "english": "be absorbed",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-524",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "불안하다",
+    "chinese": "不安",
+    "english": "uneasy; anxious",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-10-525",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "보상",
+    "chinese": "补偿，赔偿",
+    "english": "compensation; indemnification",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-526",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "물질만능주의",
+    "chinese": "物质万能主义",
+    "english": "materialism; worship of material wealth",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-527",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "키우다",
+    "chinese": "培养，培育",
+    "english": "teach",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-528",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "개인주의",
+    "chinese": "个人主义",
+    "english": "individualism",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-529",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "민족주의",
+    "chinese": "民族主义",
+    "english": "nationalism",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-530",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "이기주의",
+    "chinese": "利己主义",
+    "english": "egoism",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-531",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "인본주의",
+    "chinese": "人本主义",
+    "english": "humanism",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-532",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "외모지상주의",
+    "chinese": "外貌至上主义",
+    "english": "lookism; appearance supremacy",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-533",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "증상",
+    "chinese": "症状",
+    "english": "symptom",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-534",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "염증",
+    "chinese": "炎症，发炎",
+    "english": "inflammation",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-535",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "굳이",
+    "chinese": "坚决，执意",
+    "english": "obstinately; persistently",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-10-536",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "지나치다",
+    "chinese": "过分，过头",
+    "english": "extreme; severe",
+    "pos": "形"
+  },
+  {
+    "id": "yonsei-4-lesson-10-537",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "영양제",
+    "chinese": "营养剂",
+    "english": "nutritional supplements",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-538",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "보약",
+    "chinese": "补药",
+    "english": "invigorant; tonic",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-539",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "비만",
+    "chinese": "肥胖",
+    "english": "obesity; fatness",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-540",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "채식",
+    "chinese": "素食",
+    "english": "vegetarian diet",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-541",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "성인병",
+    "chinese": "成人病",
+    "english": "adult disease; lifestyle disease",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-542",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "유기농",
+    "chinese": "有机",
+    "english": "organic farming",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-543",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "건강 검진",
+    "chinese": "健康检查",
+    "english": "health checkup",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-544",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "만성피로",
+    "chinese": "常年疲劳",
+    "english": "chronic fatigue",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-545",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "종합영양제",
+    "chinese": "综合营养剂",
+    "english": "multivitamin supplement",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-546",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "건강보조식품",
+    "chinese": "健康补品",
+    "english": "dietary supplement",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-547",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "의사소통",
+    "chinese": "沟通",
+    "english": "communication",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-548",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "단절",
+    "chinese": "断绝，断",
+    "english": "severance",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-549",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "자살",
+    "chinese": "自杀",
+    "english": "suicide; self-murder; self-destruction",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-550",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "증가하다",
+    "chinese": "增加",
+    "english": "grow; rise",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-551",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "보급되다",
+    "chinese": "普及",
+    "english": "be diffused; be distributed",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-552",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "터놓다",
+    "chinese": "敞开，开诚布公",
+    "english": "open one's heart",
+    "pos": "动"
+  },
+  {
+    "id": "yonsei-4-lesson-10-553",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "또한",
+    "chinese": "并且，而且",
+    "english": "additionally; and",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-10-554",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "반면",
+    "chinese": "相反，另一方面",
+    "english": "opposite; contrast; other side",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-555",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "우선",
+    "chinese": "首先，先",
+    "english": "priority; preference",
+    "pos": "名"
+  },
+  {
+    "id": "yonsei-4-lesson-10-556",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "그 결과",
+    "chinese": "其结果",
+    "english": "as a result",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-557",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "따라서",
+    "chinese": "因而，因此",
+    "english": "therefore; so; hence",
+    "pos": "副"
+  },
+  {
+    "id": "yonsei-4-lesson-10-558",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "예를 들면",
+    "chinese": "例如，比如",
+    "english": "for example",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-559",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "이외에도",
+    "chinese": "此外",
+    "english": "besides this; in addition",
+    "pos": "表达"
+  },
+  {
+    "id": "yonsei-4-lesson-10-560",
+    "bookId": "yonsei-4",
+    "lessonId": "lesson-10",
+    "lessonTitle": "生活在现代的人",
+    "korean": "마지막으로",
+    "chinese": "最后",
+    "english": "finally; lastly",
+    "pos": "表达"
+  }
+]
